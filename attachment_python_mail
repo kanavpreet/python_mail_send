@@ -1,0 +1,3 @@
+import smtplib
+import base64
+####Using base64 provides algorithm for encoding and decoding strings to text that can be safely send by email, as part of URL or HTTP post request####
